@@ -1,6 +1,5 @@
 # 🐢 Turtle Runaway Game
-
-> **작성자:** (최진원 / 24101244)  
+  
 > **파일:** `turtle_runaway.py`  
 > **설명 문서:** `turtle_runaway.md`  
 > **스크린샷:** `turtle_runaway1.png`, `turtle_runaway2.png`, `turtle_runaway3.png`
